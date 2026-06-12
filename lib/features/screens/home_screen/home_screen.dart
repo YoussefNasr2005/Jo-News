@@ -203,7 +203,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _showTopicsData(ArticlesModels topHeadlinesModel) {
-    Article article = topHeadlinesModel.articles[9];
+    Article article = topHeadlinesModel.articles[0];
     return Column(
       children: [
         SizedBox(height: 16.h),
