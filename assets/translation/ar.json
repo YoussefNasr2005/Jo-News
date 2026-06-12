@@ -1,0 +1,19 @@
+{
+  "explore": "اكتشف",
+  "travel": "سفر",
+  "technology": "تقنية",
+  "business": "أعمال",
+  "entertainment": "ترفيه",
+  "cancel": "إلغاء",
+  "search_results": "نتائج البحث",
+  "dialog_title": "تخصيص الاهتمامات",
+  "dialog_title_edit": "تم حفظ التغييرات",
+  "dialog_des": "خصص تجربتك عبر اختيار المواضيع التي تهمك.\nاضغط موافق لبدء التخصيص.",
+  "dialog_des_edit": "هل انتهيت من التعديل؟\nاضغط موافق لحفظ التفضيلات.",
+  "btn_ok": "موافق",
+  "btn_cancel": "إلغاء",
+  "empty_type": "عام",
+  "Data_do_not_found": "لقد حدث شيء غير متوقع !",
+  "no_result": "لا توجد نتائج !",
+  "search": "بحث"
+}

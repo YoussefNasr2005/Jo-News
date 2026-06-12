@@ -1,0 +1,20 @@
+{
+  "explore": "Explore",
+  "travel": "Travel",
+  "technology": "Technology",
+  "business": "Business",
+  "entertainment": "Entertainment",
+  "cancel": "Cancel",
+  "search_results": "Search results",
+  "dialog_title": "Customize your interests",
+  "dialog_title_edit": "Changes saved successfully",
+  "dialog_des": "Personalize your experience by selecting topics you care about.\nTap OK to start customizing.",
+  "dialog_des_edit": "Finished making changes?\nTap OK to save your preferences.",
+  "btn_ok": "OK",
+  "btn_cancel": "Cancel",
+  "empty_type": "General",
+  "Data_do_not_found": "Something went wrong!",
+  "no_result": "there aren't results !",
+  "search":"Search"
+ 
+}
